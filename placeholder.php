@@ -2,6 +2,7 @@
 // PHP placeholder images
 // Version: 0.1
 // Author: Hinerangi Courtenay - @sky_maiden
+// Contributer: Em Sawyers - @cbmtx
 
 // Usage (all parameters are optional):
 // <img src="placeholder.php?size=400x150&bg=eee&fg=999&text=Generated+image" alt="Placeholder image" />
